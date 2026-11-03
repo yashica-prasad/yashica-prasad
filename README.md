@@ -12,6 +12,7 @@ I like taking things apart and figuring out what makes them work, why they break
 **[Technical Blog](https://yashica-prasad.github.io/blog/)** — CTF writeups, project development logs, security research, and deep dives on tech topics I find interesting.
 
 **[Personal Substack](https://cryptidwithwifi.substack.com/)** — Argumentative essays, thoughts on the last tv show I watched, and other personal writing
+
 **[Linkedin](www.linkedin.com/in/yashicaprasad)**  - Connect with me professionally
 
 ### 🛠️ What I'm interested in
