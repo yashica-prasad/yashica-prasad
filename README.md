@@ -30,6 +30,10 @@ Research exploring poisoning and backdoor attacks against graph neural networks.
 
 A local-first personal knowledge management CLI using Python, SQLite, and Ollama. Currently revisiting and refining its architecture.
 
+**[Dead Plant Society](https://github.com/Dead-Plant-Society/dead-plant-society)**
+
+A collaborative, full-stack web application where plant owners can document their plants' lives (and unfortunate deaths), share stories, and maintain plant care diaries. Built with a JavaScript frontend and a MongoDB/Mongoose backend, featuring community posts, comments, and customizable user profiles.
+
 **[3D Tetris](https://github.com/nathanc7278/3dTetris)**
 
 An fun programming project for my Computer Graphics class exploring a three-dimensional take on Tetris.
